@@ -1,6 +1,6 @@
 ### 🌱 Trying to figure out how to use a computer.
 
-and arch <br />
+<font size = 1> and arch <br /> 
 and github <br />
-and vim (help me exit) <br />
+and vim (help me exit) </font>
 
